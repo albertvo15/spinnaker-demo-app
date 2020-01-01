@@ -1,1 +1,0 @@
-# spinnaker-demo-app
